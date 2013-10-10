@@ -26,7 +26,7 @@ As a note, the theme I use in my configuration can be found on GitHub
 
 .. _pelican-svbheck: https://github.com/theckman/pelican-svbheck
 
-LICENSE
+License
 ^^^^^^^
 These configuration files are released under the ``MIT`` license. See
 the provided ``LICENSE`` file for more information.
