@@ -13,11 +13,14 @@ For production::
 
     ln -sf prod.py pelicanconf.py
 
-In the future, the ``content`` and ``output`` directories will be
-removed from this repository. Reason being is that in
-development/production the ``content`` directory will be my `blog`_
-repository and the output directory will be created when ``make html``
-is ran to build the site.
+Note
+^^^^
+
+The ``content`` directory, which the Makefile expects to be there, has
+been removed and will need to be recreated to contain the blog content.
+This folder as removed as on my systems I will be cloning my `blog`_
+repository to it. The ``output`` directory should be auto-created by
+Pelican during the build.
 
 .. _blog: https://github.com/theckman/blog
 
