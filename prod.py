@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Tim Heckman'
 TAGLINE = 'Life, liberty, and the pursuit of bacon'
 SITENAME = u'The blog of Tim Heckman'
-SITEURL = 'http://blog.timheckman.net'
+SITEURL = 'https://newblog.timheckman.net'
 THEME = 'svbheck'
 TIMEZONE = 'Etc/UTC'
 
